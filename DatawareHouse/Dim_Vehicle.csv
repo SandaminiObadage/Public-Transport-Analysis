@@ -1,0 +1,501 @@
+vehicle_id,vehicle_type,fleet_number,capacity,manufacturer,fuel_type,year_of_make
+V001,Bus,FLEET-1823,61,Hyundai,Diesel,2018
+V002,Bus,FLEET-5262,59,Tata,Hybrid,2013
+V003,Metro,FLEET-7211,127,Tata,Hybrid,2019
+V004,Train,FLEET-6363,176,Volvo,Diesel,2018
+V005,Train,FLEET-4467,79,Ashok Leyland,Hybrid,2012
+V006,Train,FLEET-8449,74,Ashok Leyland,Hybrid,2020
+V007,Bus,FLEET-6355,110,Tata,Diesel,2016
+V008,Bus,FLEET-6529,187,Tata,Diesel,2012
+V009,Ferry,FLEET-7211,84,Ashok Leyland,Electric,2012
+V010,Bus,FLEET-5558,149,Tata,Hybrid,2014
+V011,Bus,FLEET-7906,166,Volvo,Electric,2014
+V012,Bus,FLEET-5133,144,Volvo,Diesel,2014
+V013,Train,FLEET-2341,188,Hyundai,Hybrid,2017
+V014,Train,FLEET-8705,157,Ashok Leyland,Diesel,2012
+V015,Bus,FLEET-1317,200,Tata,Hybrid,2011
+V016,Train,FLEET-9837,89,Hyundai,Hybrid,2012
+V017,Ferry,FLEET-1853,156,Volvo,Electric,2016
+V018,Train,FLEET-6733,75,Ashok Leyland,Diesel,2014
+V019,Ferry,FLEET-4673,175,Volvo,Hybrid,2016
+V020,Metro,FLEET-2124,154,Tata,Electric,2014
+V021,Bus,FLEET-1659,121,Hyundai,Diesel,2017
+V022,Train,FLEET-1508,58,Tata,Electric,2022
+V023,Ferry,FLEET-5051,144,Tata,Diesel,2011
+V024,Metro,FLEET-4266,105,Ashok Leyland,Hybrid,2015
+V025,Metro,FLEET-1333,163,Ashok Leyland,Electric,2014
+V026,Train,FLEET-3496,163,Tata,Electric,2013
+V027,Train,FLEET-4908,110,Ashok Leyland,Hybrid,2021
+V028,Metro,FLEET-3068,142,Hyundai,Diesel,2020
+V029,Bus,FLEET-8758,75,Hyundai,Hybrid,2017
+V030,Bus,FLEET-2874,144,Tata,Electric,2019
+V031,Ferry,FLEET-4571,189,Hyundai,Hybrid,2019
+V032,Bus,FLEET-8619,141,Tata,Electric,2013
+V033,Metro,FLEET-5198,65,Hyundai,Hybrid,2017
+V034,Metro,FLEET-7043,151,Volvo,Diesel,2011
+V035,Metro,FLEET-3749,120,Tata,Electric,2012
+V036,Bus,FLEET-2876,98,Hyundai,Electric,2014
+V037,Ferry,FLEET-3683,81,Volvo,Diesel,2010
+V038,Bus,FLEET-6096,166,Tata,Hybrid,2016
+V039,Ferry,FLEET-2771,73,Hyundai,Diesel,2015
+V040,Bus,FLEET-1420,104,Hyundai,Hybrid,2023
+V041,Metro,FLEET-6111,55,Volvo,Diesel,2019
+V042,Metro,FLEET-7149,62,Ashok Leyland,Diesel,2016
+V043,Train,FLEET-7498,135,Ashok Leyland,Electric,2022
+V044,Bus,FLEET-4249,112,Volvo,Electric,2023
+V045,Bus,FLEET-2245,82,Volvo,Hybrid,2015
+V046,Train,FLEET-4978,194,Tata,Diesel,2017
+V047,Metro,FLEET-2669,102,Ashok Leyland,Hybrid,2015
+V048,Bus,FLEET-5941,67,Tata,Diesel,2016
+V049,Train,FLEET-2983,191,Hyundai,Diesel,2023
+V050,Bus,FLEET-1672,103,Volvo,Electric,2023
+V051,Ferry,FLEET-6688,200,Tata,Diesel,2023
+V052,Metro,FLEET-9728,105,Volvo,Electric,2020
+V053,Ferry,FLEET-8018,109,Tata,Electric,2019
+V054,Metro,FLEET-7071,134,Hyundai,Diesel,2012
+V055,Train,FLEET-2129,87,Hyundai,Diesel,2014
+V056,Metro,FLEET-9289,50,Ashok Leyland,Hybrid,2015
+V057,Metro,FLEET-6590,120,Ashok Leyland,Hybrid,2019
+V058,Train,FLEET-1207,87,Hyundai,Hybrid,2021
+V059,Metro,FLEET-7882,83,Tata,Electric,2013
+V060,Bus,FLEET-9031,188,Volvo,Electric,2017
+V061,Train,FLEET-2729,114,Hyundai,Electric,2015
+V062,Train,FLEET-8102,94,Hyundai,Electric,2012
+V063,Train,FLEET-6934,78,Tata,Electric,2016
+V064,Ferry,FLEET-8532,56,Hyundai,Electric,2015
+V065,Ferry,FLEET-3506,83,Hyundai,Diesel,2014
+V066,Metro,FLEET-8135,53,Tata,Hybrid,2021
+V067,Train,FLEET-3885,141,Hyundai,Hybrid,2021
+V068,Metro,FLEET-9548,110,Ashok Leyland,Hybrid,2020
+V069,Bus,FLEET-5425,200,Ashok Leyland,Diesel,2017
+V070,Train,FLEET-9817,132,Ashok Leyland,Hybrid,2019
+V071,Bus,FLEET-8921,54,Ashok Leyland,Electric,2022
+V072,Metro,FLEET-8616,94,Hyundai,Diesel,2013
+V073,Ferry,FLEET-8136,117,Volvo,Diesel,2015
+V074,Metro,FLEET-5397,63,Ashok Leyland,Hybrid,2016
+V075,Bus,FLEET-6280,82,Ashok Leyland,Electric,2014
+V076,Train,FLEET-5022,157,Hyundai,Hybrid,2023
+V077,Metro,FLEET-2419,184,Hyundai,Diesel,2022
+V078,Train,FLEET-5569,79,Tata,Hybrid,2016
+V079,Ferry,FLEET-8385,66,Ashok Leyland,Diesel,2015
+V080,Ferry,FLEET-4995,171,Tata,Diesel,2011
+V081,Ferry,FLEET-8613,164,Ashok Leyland,Diesel,2019
+V082,Train,FLEET-7209,142,Volvo,Electric,2013
+V083,Metro,FLEET-6511,181,Hyundai,Electric,2019
+V084,Train,FLEET-1470,77,Hyundai,Hybrid,2018
+V085,Train,FLEET-9098,165,Tata,Hybrid,2012
+V086,Metro,FLEET-6325,178,Tata,Hybrid,2020
+V087,Ferry,FLEET-3979,106,Hyundai,Electric,2022
+V088,Ferry,FLEET-8988,61,Hyundai,Hybrid,2018
+V089,Metro,FLEET-4475,183,Hyundai,Electric,2010
+V090,Train,FLEET-6813,127,Ashok Leyland,Diesel,2021
+V091,Train,FLEET-5232,167,Ashok Leyland,Diesel,2017
+V092,Ferry,FLEET-6576,57,Volvo,Electric,2021
+V093,Bus,FLEET-5581,65,Ashok Leyland,Electric,2013
+V094,Bus,FLEET-5526,172,Hyundai,Diesel,2017
+V095,Bus,FLEET-1166,152,Ashok Leyland,Electric,2022
+V096,Train,FLEET-9464,159,Tata,Diesel,2014
+V097,Train,FLEET-4130,77,Hyundai,Hybrid,2023
+V098,Ferry,FLEET-2402,175,Ashok Leyland,Diesel,2021
+V099,Bus,FLEET-4954,163,Hyundai,Diesel,2011
+V100,Ferry,FLEET-7658,68,Tata,Hybrid,2023
+V101,Ferry,FLEET-9004,70,Tata,Electric,2023
+V102,Ferry,FLEET-4937,132,Ashok Leyland,Hybrid,2022
+V103,Metro,FLEET-8800,87,Hyundai,Diesel,2022
+V104,Bus,FLEET-9041,66,Volvo,Diesel,2016
+V105,Bus,FLEET-8342,82,Tata,Diesel,2020
+V106,Metro,FLEET-1282,120,Volvo,Diesel,2017
+V107,Metro,FLEET-2524,199,Ashok Leyland,Diesel,2012
+V108,Bus,FLEET-5820,190,Tata,Hybrid,2020
+V109,Metro,FLEET-4630,133,Volvo,Diesel,2014
+V110,Ferry,FLEET-7625,147,Tata,Electric,2013
+V111,Train,FLEET-4986,185,Volvo,Hybrid,2014
+V112,Ferry,FLEET-6016,125,Hyundai,Hybrid,2020
+V113,Bus,FLEET-7046,166,Hyundai,Hybrid,2012
+V114,Metro,FLEET-8753,179,Ashok Leyland,Diesel,2021
+V115,Train,FLEET-9698,160,Tata,Diesel,2016
+V116,Bus,FLEET-6632,75,Volvo,Hybrid,2022
+V117,Metro,FLEET-7971,79,Ashok Leyland,Diesel,2016
+V118,Train,FLEET-6419,191,Hyundai,Electric,2011
+V119,Train,FLEET-6764,105,Hyundai,Electric,2017
+V120,Metro,FLEET-8434,160,Ashok Leyland,Diesel,2019
+V121,Train,FLEET-5438,165,Tata,Hybrid,2017
+V122,Bus,FLEET-6023,108,Volvo,Diesel,2019
+V123,Metro,FLEET-5118,155,Hyundai,Diesel,2016
+V124,Ferry,FLEET-4777,136,Ashok Leyland,Diesel,2018
+V125,Bus,FLEET-2976,166,Hyundai,Hybrid,2018
+V126,Bus,FLEET-4155,152,Hyundai,Electric,2023
+V127,Metro,FLEET-6169,156,Volvo,Diesel,2021
+V128,Metro,FLEET-2958,74,Tata,Hybrid,2016
+V129,Train,FLEET-9779,130,Tata,Hybrid,2018
+V130,Bus,FLEET-4033,159,Volvo,Electric,2010
+V131,Train,FLEET-4138,130,Ashok Leyland,Hybrid,2022
+V132,Bus,FLEET-4545,115,Ashok Leyland,Hybrid,2015
+V133,Bus,FLEET-8933,145,Tata,Hybrid,2021
+V134,Ferry,FLEET-5530,89,Hyundai,Electric,2022
+V135,Bus,FLEET-9595,171,Hyundai,Diesel,2018
+V136,Train,FLEET-5636,67,Ashok Leyland,Electric,2019
+V137,Train,FLEET-2647,73,Volvo,Diesel,2020
+V138,Ferry,FLEET-4180,71,Hyundai,Hybrid,2011
+V139,Train,FLEET-5853,73,Ashok Leyland,Hybrid,2011
+V140,Metro,FLEET-4727,160,Volvo,Diesel,2022
+V141,Ferry,FLEET-6912,74,Tata,Electric,2013
+V142,Train,FLEET-3939,145,Volvo,Electric,2020
+V143,Train,FLEET-5952,83,Tata,Electric,2020
+V144,Metro,FLEET-1231,192,Ashok Leyland,Diesel,2015
+V145,Ferry,FLEET-9751,65,Volvo,Hybrid,2012
+V146,Metro,FLEET-3073,200,Ashok Leyland,Hybrid,2020
+V147,Ferry,FLEET-5494,193,Tata,Hybrid,2019
+V148,Ferry,FLEET-1745,193,Hyundai,Diesel,2010
+V149,Bus,FLEET-1893,134,Hyundai,Hybrid,2019
+V150,Train,FLEET-5786,81,Tata,Hybrid,2020
+V151,Train,FLEET-3068,155,Hyundai,Electric,2020
+V152,Bus,FLEET-9042,140,Hyundai,Hybrid,2020
+V153,Metro,FLEET-2680,158,Volvo,Electric,2016
+V154,Bus,FLEET-1200,63,Volvo,Diesel,2022
+V155,Train,FLEET-5658,123,Hyundai,Electric,2015
+V156,Train,FLEET-8690,129,Volvo,Hybrid,2022
+V157,Bus,FLEET-8843,140,Tata,Hybrid,2016
+V158,Bus,FLEET-8216,76,Volvo,Electric,2011
+V159,Bus,FLEET-6582,197,Volvo,Hybrid,2010
+V160,Train,FLEET-4020,179,Volvo,Electric,2011
+V161,Bus,FLEET-1841,104,Ashok Leyland,Hybrid,2014
+V162,Bus,FLEET-5136,89,Tata,Electric,2013
+V163,Metro,FLEET-8827,173,Hyundai,Electric,2018
+V164,Bus,FLEET-2869,107,Hyundai,Diesel,2021
+V165,Train,FLEET-2070,77,Ashok Leyland,Electric,2018
+V166,Metro,FLEET-7565,139,Volvo,Electric,2018
+V167,Ferry,FLEET-9056,192,Tata,Diesel,2019
+V168,Train,FLEET-2213,144,Tata,Hybrid,2021
+V169,Train,FLEET-1878,79,Hyundai,Electric,2019
+V170,Ferry,FLEET-3485,121,Ashok Leyland,Diesel,2013
+V171,Train,FLEET-3444,196,Ashok Leyland,Diesel,2017
+V172,Ferry,FLEET-5978,107,Ashok Leyland,Electric,2015
+V173,Ferry,FLEET-2395,159,Ashok Leyland,Hybrid,2016
+V174,Train,FLEET-5066,193,Tata,Diesel,2017
+V175,Bus,FLEET-2940,192,Volvo,Electric,2022
+V176,Bus,FLEET-7818,56,Hyundai,Diesel,2020
+V177,Ferry,FLEET-4697,118,Tata,Hybrid,2019
+V178,Metro,FLEET-9561,57,Ashok Leyland,Electric,2021
+V179,Ferry,FLEET-7232,96,Ashok Leyland,Electric,2018
+V180,Ferry,FLEET-8381,119,Hyundai,Hybrid,2012
+V181,Ferry,FLEET-8253,129,Volvo,Hybrid,2015
+V182,Bus,FLEET-5871,136,Volvo,Diesel,2010
+V183,Bus,FLEET-8025,139,Volvo,Electric,2017
+V184,Bus,FLEET-6003,51,Ashok Leyland,Diesel,2011
+V185,Ferry,FLEET-1986,96,Tata,Electric,2014
+V186,Metro,FLEET-2625,86,Tata,Diesel,2016
+V187,Bus,FLEET-4404,194,Volvo,Electric,2011
+V188,Train,FLEET-4457,152,Hyundai,Hybrid,2011
+V189,Train,FLEET-5335,67,Volvo,Diesel,2023
+V190,Train,FLEET-2330,86,Volvo,Electric,2021
+V191,Ferry,FLEET-3573,57,Hyundai,Electric,2012
+V192,Train,FLEET-4929,73,Volvo,Diesel,2015
+V193,Ferry,FLEET-3847,185,Hyundai,Hybrid,2014
+V194,Train,FLEET-2229,105,Hyundai,Hybrid,2015
+V195,Metro,FLEET-3564,146,Tata,Diesel,2017
+V196,Ferry,FLEET-1043,157,Hyundai,Diesel,2022
+V197,Train,FLEET-7693,166,Volvo,Electric,2013
+V198,Bus,FLEET-8381,137,Hyundai,Electric,2018
+V199,Ferry,FLEET-8699,90,Volvo,Hybrid,2017
+V200,Bus,FLEET-5771,144,Hyundai,Hybrid,2015
+V201,Bus,FLEET-1534,129,Tata,Hybrid,2017
+V202,Bus,FLEET-4792,133,Volvo,Diesel,2011
+V203,Bus,FLEET-5720,195,Volvo,Diesel,2017
+V204,Train,FLEET-5632,71,Volvo,Diesel,2021
+V205,Train,FLEET-8438,63,Hyundai,Hybrid,2021
+V206,Ferry,FLEET-2166,89,Tata,Hybrid,2017
+V207,Ferry,FLEET-4824,90,Tata,Hybrid,2015
+V208,Ferry,FLEET-5334,62,Tata,Hybrid,2011
+V209,Train,FLEET-4241,70,Tata,Diesel,2014
+V210,Ferry,FLEET-7965,119,Hyundai,Electric,2010
+V211,Bus,FLEET-2880,163,Volvo,Diesel,2022
+V212,Train,FLEET-9922,158,Ashok Leyland,Electric,2021
+V213,Ferry,FLEET-4683,174,Tata,Electric,2011
+V214,Bus,FLEET-3441,163,Ashok Leyland,Diesel,2010
+V215,Ferry,FLEET-5352,156,Hyundai,Diesel,2023
+V216,Metro,FLEET-3330,119,Hyundai,Diesel,2015
+V217,Ferry,FLEET-2169,105,Ashok Leyland,Hybrid,2020
+V218,Metro,FLEET-1977,181,Volvo,Diesel,2011
+V219,Ferry,FLEET-3718,79,Ashok Leyland,Hybrid,2020
+V220,Ferry,FLEET-6039,138,Hyundai,Electric,2022
+V221,Train,FLEET-5728,160,Ashok Leyland,Diesel,2012
+V222,Train,FLEET-8195,78,Tata,Hybrid,2021
+V223,Metro,FLEET-3037,122,Tata,Hybrid,2013
+V224,Train,FLEET-8679,174,Volvo,Hybrid,2018
+V225,Bus,FLEET-5982,184,Ashok Leyland,Diesel,2012
+V226,Bus,FLEET-7594,128,Ashok Leyland,Electric,2018
+V227,Metro,FLEET-5460,61,Ashok Leyland,Diesel,2012
+V228,Bus,FLEET-9199,106,Ashok Leyland,Hybrid,2015
+V229,Bus,FLEET-9847,151,Volvo,Electric,2018
+V230,Ferry,FLEET-9090,64,Hyundai,Electric,2016
+V231,Train,FLEET-8172,51,Volvo,Electric,2017
+V232,Bus,FLEET-2317,102,Hyundai,Electric,2013
+V233,Bus,FLEET-1653,127,Hyundai,Hybrid,2022
+V234,Train,FLEET-8078,104,Hyundai,Hybrid,2016
+V235,Bus,FLEET-6280,85,Ashok Leyland,Electric,2020
+V236,Bus,FLEET-5102,115,Volvo,Electric,2012
+V237,Train,FLEET-1423,124,Hyundai,Electric,2012
+V238,Ferry,FLEET-2496,133,Tata,Electric,2020
+V239,Bus,FLEET-4750,80,Hyundai,Hybrid,2020
+V240,Train,FLEET-1339,51,Volvo,Electric,2016
+V241,Bus,FLEET-5415,177,Ashok Leyland,Electric,2016
+V242,Bus,FLEET-1659,160,Tata,Diesel,2010
+V243,Ferry,FLEET-3870,94,Hyundai,Hybrid,2021
+V244,Metro,FLEET-8708,83,Ashok Leyland,Electric,2019
+V245,Metro,FLEET-9502,147,Volvo,Electric,2013
+V246,Train,FLEET-8245,186,Volvo,Diesel,2017
+V247,Metro,FLEET-5557,108,Tata,Electric,2019
+V248,Train,FLEET-3973,178,Tata,Electric,2016
+V249,Metro,FLEET-8141,193,Hyundai,Electric,2016
+V250,Ferry,FLEET-9056,140,Ashok Leyland,Diesel,2010
+V251,Train,FLEET-2494,68,Ashok Leyland,Hybrid,2021
+V252,Metro,FLEET-8700,151,Volvo,Diesel,2013
+V253,Ferry,FLEET-6700,60,Volvo,Hybrid,2013
+V254,Metro,FLEET-7690,161,Hyundai,Diesel,2014
+V255,Bus,FLEET-6460,54,Hyundai,Diesel,2022
+V256,Bus,FLEET-6260,167,Volvo,Electric,2021
+V257,Ferry,FLEET-2713,69,Volvo,Hybrid,2022
+V258,Bus,FLEET-3634,130,Ashok Leyland,Hybrid,2022
+V259,Bus,FLEET-6403,197,Ashok Leyland,Hybrid,2011
+V260,Train,FLEET-7744,159,Ashok Leyland,Hybrid,2019
+V261,Metro,FLEET-9117,196,Hyundai,Electric,2011
+V262,Train,FLEET-5722,153,Ashok Leyland,Electric,2022
+V263,Metro,FLEET-7561,156,Tata,Diesel,2023
+V264,Bus,FLEET-1601,124,Tata,Diesel,2018
+V265,Train,FLEET-8451,79,Ashok Leyland,Electric,2012
+V266,Metro,FLEET-2442,153,Ashok Leyland,Diesel,2015
+V267,Metro,FLEET-6153,55,Volvo,Electric,2015
+V268,Train,FLEET-5135,133,Volvo,Hybrid,2013
+V269,Ferry,FLEET-6296,93,Hyundai,Diesel,2017
+V270,Metro,FLEET-2899,167,Tata,Electric,2011
+V271,Bus,FLEET-7622,142,Tata,Hybrid,2014
+V272,Metro,FLEET-9431,72,Hyundai,Hybrid,2020
+V273,Bus,FLEET-1018,161,Ashok Leyland,Hybrid,2023
+V274,Train,FLEET-9889,77,Ashok Leyland,Electric,2017
+V275,Metro,FLEET-8569,112,Hyundai,Electric,2018
+V276,Bus,FLEET-7770,161,Tata,Electric,2020
+V277,Bus,FLEET-1888,200,Tata,Hybrid,2015
+V278,Train,FLEET-4073,152,Ashok Leyland,Hybrid,2019
+V279,Metro,FLEET-9494,184,Volvo,Hybrid,2016
+V280,Metro,FLEET-6927,70,Hyundai,Electric,2019
+V281,Train,FLEET-9167,151,Hyundai,Electric,2016
+V282,Metro,FLEET-8242,129,Ashok Leyland,Diesel,2019
+V283,Train,FLEET-1845,136,Hyundai,Hybrid,2011
+V284,Metro,FLEET-4335,106,Tata,Electric,2015
+V285,Ferry,FLEET-5375,135,Ashok Leyland,Diesel,2015
+V286,Metro,FLEET-9998,93,Tata,Diesel,2023
+V287,Bus,FLEET-3146,69,Volvo,Hybrid,2017
+V288,Bus,FLEET-5719,180,Hyundai,Hybrid,2019
+V289,Ferry,FLEET-8178,79,Hyundai,Electric,2012
+V290,Metro,FLEET-8941,185,Tata,Diesel,2023
+V291,Bus,FLEET-2989,180,Ashok Leyland,Hybrid,2020
+V292,Bus,FLEET-1472,99,Ashok Leyland,Hybrid,2021
+V293,Metro,FLEET-4920,139,Hyundai,Diesel,2022
+V294,Train,FLEET-3594,139,Tata,Hybrid,2014
+V295,Metro,FLEET-6091,87,Volvo,Diesel,2019
+V296,Train,FLEET-1224,110,Tata,Diesel,2019
+V297,Ferry,FLEET-7684,76,Ashok Leyland,Hybrid,2011
+V298,Ferry,FLEET-2527,87,Hyundai,Diesel,2020
+V299,Bus,FLEET-4681,115,Hyundai,Diesel,2012
+V300,Bus,FLEET-2858,100,Hyundai,Electric,2015
+V301,Bus,FLEET-8560,94,Volvo,Diesel,2011
+V302,Train,FLEET-2924,89,Volvo,Hybrid,2013
+V303,Bus,FLEET-3522,69,Ashok Leyland,Diesel,2014
+V304,Metro,FLEET-9165,95,Tata,Diesel,2011
+V305,Train,FLEET-5781,176,Tata,Hybrid,2012
+V306,Ferry,FLEET-9337,168,Tata,Diesel,2015
+V307,Train,FLEET-5479,194,Volvo,Diesel,2021
+V308,Bus,FLEET-7807,198,Hyundai,Diesel,2012
+V309,Metro,FLEET-8905,164,Ashok Leyland,Hybrid,2018
+V310,Metro,FLEET-8736,194,Ashok Leyland,Electric,2016
+V311,Bus,FLEET-4993,132,Volvo,Electric,2016
+V312,Metro,FLEET-8483,130,Volvo,Diesel,2019
+V313,Train,FLEET-3369,88,Hyundai,Hybrid,2012
+V314,Train,FLEET-7284,162,Hyundai,Hybrid,2019
+V315,Bus,FLEET-4122,67,Volvo,Hybrid,2016
+V316,Metro,FLEET-9327,170,Ashok Leyland,Hybrid,2016
+V317,Ferry,FLEET-3236,163,Hyundai,Electric,2012
+V318,Train,FLEET-2143,127,Hyundai,Hybrid,2017
+V319,Train,FLEET-5526,120,Ashok Leyland,Electric,2020
+V320,Train,FLEET-7798,64,Hyundai,Diesel,2018
+V321,Train,FLEET-6568,140,Ashok Leyland,Diesel,2021
+V322,Ferry,FLEET-9318,179,Tata,Hybrid,2020
+V323,Bus,FLEET-5377,68,Hyundai,Hybrid,2012
+V324,Train,FLEET-1042,129,Hyundai,Electric,2018
+V325,Metro,FLEET-5634,168,Tata,Diesel,2012
+V326,Ferry,FLEET-5891,165,Ashok Leyland,Diesel,2017
+V327,Train,FLEET-9022,59,Hyundai,Hybrid,2014
+V328,Metro,FLEET-3434,64,Tata,Hybrid,2012
+V329,Train,FLEET-8316,144,Ashok Leyland,Electric,2012
+V330,Bus,FLEET-9824,123,Hyundai,Hybrid,2015
+V331,Ferry,FLEET-8935,69,Volvo,Electric,2023
+V332,Bus,FLEET-6654,73,Tata,Diesel,2017
+V333,Ferry,FLEET-6446,179,Ashok Leyland,Hybrid,2019
+V334,Train,FLEET-9903,148,Volvo,Hybrid,2010
+V335,Train,FLEET-7180,168,Ashok Leyland,Hybrid,2023
+V336,Ferry,FLEET-8460,198,Volvo,Electric,2015
+V337,Metro,FLEET-6272,191,Volvo,Diesel,2010
+V338,Metro,FLEET-4090,60,Tata,Diesel,2017
+V339,Train,FLEET-4912,165,Tata,Diesel,2012
+V340,Train,FLEET-7274,196,Volvo,Hybrid,2013
+V341,Bus,FLEET-4826,98,Tata,Diesel,2023
+V342,Train,FLEET-7730,132,Ashok Leyland,Diesel,2016
+V343,Ferry,FLEET-1715,171,Hyundai,Diesel,2018
+V344,Metro,FLEET-6213,178,Ashok Leyland,Hybrid,2018
+V345,Metro,FLEET-8749,88,Volvo,Hybrid,2020
+V346,Bus,FLEET-7246,65,Ashok Leyland,Electric,2017
+V347,Metro,FLEET-7325,165,Volvo,Electric,2016
+V348,Metro,FLEET-3492,76,Ashok Leyland,Electric,2020
+V349,Ferry,FLEET-9115,137,Ashok Leyland,Electric,2017
+V350,Metro,FLEET-1606,71,Tata,Diesel,2016
+V351,Bus,FLEET-3068,179,Volvo,Electric,2021
+V352,Bus,FLEET-9229,94,Volvo,Electric,2023
+V353,Metro,FLEET-6439,60,Hyundai,Electric,2017
+V354,Train,FLEET-2644,113,Ashok Leyland,Hybrid,2017
+V355,Metro,FLEET-8213,162,Ashok Leyland,Diesel,2012
+V356,Bus,FLEET-2633,162,Hyundai,Hybrid,2011
+V357,Bus,FLEET-9617,184,Volvo,Diesel,2019
+V358,Ferry,FLEET-8486,183,Ashok Leyland,Electric,2010
+V359,Metro,FLEET-1251,90,Hyundai,Hybrid,2022
+V360,Metro,FLEET-3361,143,Hyundai,Diesel,2022
+V361,Ferry,FLEET-7717,145,Hyundai,Hybrid,2013
+V362,Bus,FLEET-3529,122,Ashok Leyland,Hybrid,2014
+V363,Ferry,FLEET-2225,149,Volvo,Diesel,2010
+V364,Train,FLEET-8692,154,Volvo,Diesel,2014
+V365,Metro,FLEET-5342,136,Hyundai,Electric,2013
+V366,Bus,FLEET-6546,63,Hyundai,Electric,2018
+V367,Ferry,FLEET-7512,135,Volvo,Electric,2014
+V368,Bus,FLEET-2315,66,Hyundai,Hybrid,2012
+V369,Train,FLEET-6383,134,Hyundai,Electric,2022
+V370,Metro,FLEET-9742,74,Volvo,Diesel,2017
+V371,Ferry,FLEET-7226,192,Ashok Leyland,Hybrid,2019
+V372,Bus,FLEET-6188,148,Hyundai,Diesel,2021
+V373,Metro,FLEET-8994,122,Ashok Leyland,Hybrid,2022
+V374,Metro,FLEET-9864,114,Hyundai,Diesel,2022
+V375,Bus,FLEET-1588,88,Hyundai,Diesel,2017
+V376,Metro,FLEET-2121,135,Hyundai,Electric,2018
+V377,Metro,FLEET-4846,70,Tata,Electric,2018
+V378,Ferry,FLEET-5708,199,Ashok Leyland,Hybrid,2011
+V379,Metro,FLEET-4727,86,Ashok Leyland,Electric,2019
+V380,Ferry,FLEET-2480,139,Hyundai,Hybrid,2011
+V381,Metro,FLEET-8110,129,Volvo,Diesel,2014
+V382,Train,FLEET-2612,150,Hyundai,Hybrid,2022
+V383,Train,FLEET-2646,83,Tata,Diesel,2018
+V384,Ferry,FLEET-8269,71,Hyundai,Diesel,2023
+V385,Ferry,FLEET-3725,129,Tata,Diesel,2015
+V386,Train,FLEET-5906,193,Hyundai,Hybrid,2018
+V387,Metro,FLEET-1474,146,Ashok Leyland,Hybrid,2023
+V388,Ferry,FLEET-1753,134,Hyundai,Electric,2022
+V389,Bus,FLEET-6314,82,Ashok Leyland,Electric,2010
+V390,Metro,FLEET-1919,184,Volvo,Diesel,2022
+V391,Metro,FLEET-5806,73,Volvo,Diesel,2021
+V392,Train,FLEET-6873,158,Hyundai,Hybrid,2017
+V393,Ferry,FLEET-7141,180,Hyundai,Electric,2018
+V394,Metro,FLEET-8056,142,Volvo,Hybrid,2013
+V395,Ferry,FLEET-3385,54,Tata,Hybrid,2016
+V396,Ferry,FLEET-5000,142,Volvo,Hybrid,2011
+V397,Ferry,FLEET-9702,129,Volvo,Diesel,2021
+V398,Train,FLEET-7751,96,Tata,Diesel,2023
+V399,Ferry,FLEET-3950,104,Volvo,Electric,2020
+V400,Train,FLEET-3785,137,Volvo,Diesel,2022
+V401,Bus,FLEET-3868,174,Tata,Diesel,2013
+V402,Metro,FLEET-2293,99,Tata,Hybrid,2014
+V403,Metro,FLEET-7267,107,Ashok Leyland,Diesel,2023
+V404,Bus,FLEET-4945,85,Hyundai,Hybrid,2010
+V405,Train,FLEET-9153,89,Ashok Leyland,Electric,2017
+V406,Metro,FLEET-3344,69,Tata,Diesel,2014
+V407,Train,FLEET-4804,125,Volvo,Electric,2015
+V408,Train,FLEET-8555,75,Tata,Diesel,2023
+V409,Train,FLEET-5161,179,Volvo,Hybrid,2023
+V410,Bus,FLEET-8529,188,Ashok Leyland,Diesel,2011
+V411,Bus,FLEET-5183,184,Ashok Leyland,Hybrid,2017
+V412,Train,FLEET-1153,59,Ashok Leyland,Electric,2023
+V413,Ferry,FLEET-8622,136,Volvo,Hybrid,2011
+V414,Bus,FLEET-5712,83,Hyundai,Hybrid,2022
+V415,Ferry,FLEET-9955,146,Hyundai,Electric,2022
+V416,Ferry,FLEET-3588,89,Hyundai,Electric,2013
+V417,Train,FLEET-2210,91,Tata,Hybrid,2013
+V418,Ferry,FLEET-8237,96,Tata,Diesel,2022
+V419,Ferry,FLEET-6661,92,Volvo,Hybrid,2021
+V420,Ferry,FLEET-5901,162,Tata,Hybrid,2019
+V421,Train,FLEET-7951,61,Volvo,Diesel,2021
+V422,Train,FLEET-5097,155,Ashok Leyland,Hybrid,2015
+V423,Bus,FLEET-8484,143,Volvo,Hybrid,2023
+V424,Bus,FLEET-5949,110,Tata,Electric,2021
+V425,Ferry,FLEET-4263,163,Ashok Leyland,Diesel,2019
+V426,Train,FLEET-7302,122,Ashok Leyland,Diesel,2020
+V427,Train,FLEET-8916,164,Volvo,Electric,2016
+V428,Ferry,FLEET-2747,109,Hyundai,Diesel,2012
+V429,Bus,FLEET-4886,186,Tata,Diesel,2019
+V430,Train,FLEET-7248,111,Tata,Electric,2012
+V431,Bus,FLEET-6881,129,Hyundai,Hybrid,2022
+V432,Ferry,FLEET-5847,170,Tata,Hybrid,2013
+V433,Train,FLEET-5837,99,Hyundai,Hybrid,2023
+V434,Ferry,FLEET-1359,144,Hyundai,Electric,2013
+V435,Metro,FLEET-7484,196,Ashok Leyland,Electric,2022
+V436,Ferry,FLEET-5497,162,Ashok Leyland,Diesel,2010
+V437,Ferry,FLEET-1132,168,Volvo,Hybrid,2019
+V438,Ferry,FLEET-1803,122,Ashok Leyland,Electric,2015
+V439,Train,FLEET-9138,147,Hyundai,Electric,2018
+V440,Ferry,FLEET-5689,178,Volvo,Electric,2014
+V441,Ferry,FLEET-4770,185,Tata,Diesel,2019
+V442,Metro,FLEET-6772,157,Hyundai,Electric,2018
+V443,Train,FLEET-4588,91,Volvo,Hybrid,2012
+V444,Metro,FLEET-4115,101,Ashok Leyland,Electric,2015
+V445,Ferry,FLEET-5106,85,Hyundai,Electric,2021
+V446,Train,FLEET-3240,114,Volvo,Diesel,2014
+V447,Metro,FLEET-2591,63,Tata,Hybrid,2014
+V448,Ferry,FLEET-1645,173,Hyundai,Hybrid,2019
+V449,Bus,FLEET-6061,145,Hyundai,Hybrid,2014
+V450,Metro,FLEET-8222,191,Volvo,Electric,2023
+V451,Train,FLEET-1546,76,Volvo,Diesel,2018
+V452,Metro,FLEET-6977,182,Ashok Leyland,Hybrid,2020
+V453,Metro,FLEET-3153,81,Ashok Leyland,Electric,2023
+V454,Metro,FLEET-2476,122,Hyundai,Diesel,2011
+V455,Bus,FLEET-5835,71,Tata,Hybrid,2012
+V456,Train,FLEET-6352,91,Ashok Leyland,Diesel,2022
+V457,Train,FLEET-7807,119,Tata,Diesel,2022
+V458,Train,FLEET-3877,165,Volvo,Electric,2016
+V459,Ferry,FLEET-4289,181,Volvo,Diesel,2010
+V460,Train,FLEET-3165,87,Ashok Leyland,Electric,2014
+V461,Train,FLEET-9837,161,Hyundai,Hybrid,2023
+V462,Bus,FLEET-6994,73,Volvo,Hybrid,2020
+V463,Ferry,FLEET-9697,106,Tata,Diesel,2012
+V464,Ferry,FLEET-9221,165,Hyundai,Hybrid,2021
+V465,Metro,FLEET-5465,139,Ashok Leyland,Electric,2023
+V466,Ferry,FLEET-3695,56,Volvo,Electric,2012
+V467,Ferry,FLEET-5210,156,Ashok Leyland,Electric,2013
+V468,Bus,FLEET-8894,63,Hyundai,Diesel,2012
+V469,Train,FLEET-5835,151,Hyundai,Diesel,2021
+V470,Ferry,FLEET-6549,178,Hyundai,Diesel,2015
+V471,Ferry,FLEET-2886,145,Tata,Electric,2023
+V472,Bus,FLEET-8673,110,Hyundai,Electric,2013
+V473,Ferry,FLEET-2233,148,Hyundai,Electric,2022
+V474,Ferry,FLEET-3306,70,Volvo,Electric,2023
+V475,Bus,FLEET-4696,145,Tata,Diesel,2020
+V476,Metro,FLEET-7511,107,Tata,Diesel,2016
+V477,Metro,FLEET-6992,57,Ashok Leyland,Diesel,2017
+V478,Ferry,FLEET-2479,131,Hyundai,Diesel,2012
+V479,Ferry,FLEET-7464,75,Volvo,Electric,2019
+V480,Train,FLEET-1228,135,Ashok Leyland,Electric,2020
+V481,Ferry,FLEET-5332,87,Hyundai,Hybrid,2014
+V482,Train,FLEET-9791,85,Tata,Hybrid,2020
+V483,Metro,FLEET-3024,59,Hyundai,Hybrid,2016
+V484,Ferry,FLEET-8451,123,Hyundai,Electric,2016
+V485,Ferry,FLEET-7038,170,Volvo,Diesel,2017
+V486,Bus,FLEET-5295,85,Volvo,Diesel,2011
+V487,Ferry,FLEET-7242,170,Volvo,Diesel,2020
+V488,Metro,FLEET-7086,164,Ashok Leyland,Electric,2022
+V489,Ferry,FLEET-2775,51,Volvo,Hybrid,2022
+V490,Train,FLEET-4830,70,Ashok Leyland,Diesel,2011
+V491,Ferry,FLEET-8724,54,Hyundai,Hybrid,2016
+V492,Train,FLEET-1410,115,Ashok Leyland,Hybrid,2018
+V493,Bus,FLEET-6374,105,Ashok Leyland,Electric,2021
+V494,Ferry,FLEET-4626,88,Volvo,Electric,2014
+V495,Bus,FLEET-2035,190,Volvo,Diesel,2021
+V496,Bus,FLEET-8606,185,Tata,Electric,2015
+V497,Ferry,FLEET-5951,158,Ashok Leyland,Electric,2017
+V498,Train,FLEET-7689,78,Hyundai,Electric,2017
+V499,Ferry,FLEET-2911,123,Tata,Diesel,2015
+V500,Train,FLEET-3290,110,Tata,Hybrid,2019
