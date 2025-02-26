@@ -30,7 +30,7 @@ This project analyzes public transport data to improve efficiency, optimize rout
 ## 🚀 How to Use:
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YourUsername/Public-Transport-Analysis.git
+   git clone https://github.com/SandaminiObadage/Public-Transport-Analysis.git
 
 2.Open the Power BI dashboard from the Dashboards folder.
 3.Explore insights and analytics for public transport optimization.
